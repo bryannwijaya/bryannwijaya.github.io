@@ -1,5 +1,5 @@
 ---
-title: Main
+title: Bryan Nathanael Wijaya
 ---
 
 ## Welcome!
