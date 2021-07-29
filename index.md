@@ -1,8 +1,8 @@
 ---
-title: Hello there! Nice to meet you
+title: Main
 ---
 
 ## Welcome!
 
-Hello! I am <b>Bryan</b>'s website.  
+Hello! I am <b>Bryan Nathanael Wijaya</b>'s website.  
 Email me at bryannwijaya@kaist.ac.kr
