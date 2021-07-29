@@ -1,3 +1,7 @@
+---
+title: Hello there! Nice to meet you
+---
+
 ## Welcome!
 
 Hello! I am <b>Bryan</b>'s website.  
